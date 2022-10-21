@@ -1,2 +1,2 @@
-# personalwebsite
-my brand new personal website
+# personal-website
+done using gsap animations 
